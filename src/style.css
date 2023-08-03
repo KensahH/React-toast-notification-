@@ -1,0 +1,163 @@
+h1,
+p {
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.infoToast{
+  position:relative;
+  left:50px;
+  width:350px;
+  height:60px;
+  background-color:whitesmoke;
+
+}
+.info{
+  position: relative;
+  border-bottom: 2px solid purple;
+  background-color:purple;
+  
+
+}
+.infoTime{
+position: relative;
+left:220px;
+bottom:45px;
+font-size: 15px;
+
+}
+.infoMark{
+  position: relative;
+  left:330px;
+  font-size: 30px;
+  bottom:90px;
+
+}
+.infoMessage{
+position: relative;
+bottom:100px;
+}
+.successToast{
+  position: relative;
+  left:50px;
+  width:350px;
+  height:60px;
+  background-color: whitesmoke;
+
+}
+.success{
+  position: relative;
+  border-bottom: 2px solid green;
+  background-color:green;
+}
+.successTime{
+  position: relative;
+  left:220px;
+  bottom:45px;
+  font-size: 15px;
+}
+.successMark{
+position: relative;
+left:330px;
+font-size: 30px;
+bottom:90px;
+}
+.successMessage{
+position: relative;
+bottom:100px;
+}
+.warningToast{
+  position: relative;
+  left:50px;
+  width:350px;
+  height:60px;
+  background-color: whitesmoke;
+
+}
+.warning{
+  position: relative;
+  border-bottom: 2px solid orange;
+  background-color: orange;
+}
+.warningTime{
+  position: relative;
+left:220px;
+bottom:45px;
+font-size: 15px;
+}
+.warningMark{
+position: relative;
+left:330px;
+font-size: 30px;
+bottom:90px;
+}
+.warningMessage{
+position: relative;
+bottom:100px;
+}
+.errorToast{
+  position: relative;
+  left:50px;
+  width:350px;
+  height:60px;
+  background-color:whitesmoke;
+
+}
+.error{
+  position: relative;
+  border-bottom: 2px solid red;
+  background-color: red;
+}
+.errorTime{
+position: relative;
+left:220px;
+bottom:45px;
+font-size: 15px;
+}
+.errorMark{
+position: relative;
+left:330px;
+font-size: 30px;
+bottom:90px;
+}
+.errorMessage{
+  position: relative;
+  bottom:100px;
+
+}
+.infoBtn{
+position: relative;
+top:50px;
+left:50px;
+height:30px;
+border-radius: 5px;
+background:grey;
+color:white;
+}
+.successBtn{
+position: relative;
+top:50px;
+left:65px;
+height:30px;
+background-color:grey;
+color:white;
+border-radius: 5px;
+}
+.errorBtn{
+position:relative;
+left:100px;
+top:50px;
+background-color:grey;
+color:white;
+height:30px;
+border-radius: 5px;
+}
+.warningBtn{
+  position: relative;
+  left:80px;
+  top:50px;
+background-color:grey;
+color:white;
+height:30px;
+border-radius: 5px;
+
+}
